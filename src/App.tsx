@@ -1,13 +1,9 @@
-import { Toaster } from "@/components/ui/sonner";
-import { MainLayout } from "@/layout/main-layout";
-import { Converter } from "@/pages/converter/converter";
+
+import { Providers } from "./providers/providers";
 
 function App() {
   return (
-    <MainLayout>
-      <Converter />
-      <Toaster />
-    </MainLayout>
+    <Providers />
   );
 }
 
