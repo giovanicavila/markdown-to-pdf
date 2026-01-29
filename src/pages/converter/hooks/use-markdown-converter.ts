@@ -43,7 +43,7 @@ const hello = "world"
 
 ### Links
 
-[Visit GitHub](https://github.com)
+[Visit GitHub](https://github.com/giovanicavila)
 
 ---
 
